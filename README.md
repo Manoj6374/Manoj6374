@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m Manoj<br>👯 I’m currently pursuing MCA<br>🤝 Web developer<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m Manoj<br>👯 MCA <br>🤝 Web developer<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/m_r_m_a_n_o_j_24?igsh=MW12aXAzMjgxaTVjNA==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/manojn24/) 
